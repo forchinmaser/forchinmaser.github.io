@@ -15,7 +15,7 @@ For some financial and spiritual reasons, I find myself in a spot to start docum
   - port forwarding for torrent seeding
   - VPN tunneling into my LAN
 - Set up a Raspberry Pi as a seedbox and learn how to use the web GUI
-- Run a [copyparty](https://github.com/9001/copyparty/) server on said Raspberry Pi 
+- Run a copypart server on said Raspberry Pi 
  
 The real challenge will be trying stay focused on these goals as one problem leads to the next. "How to setup VPN tunneling" turns into "How doees a bridge work" which turns into learning about the inner guts of packets etc etc. In the process I find out that 'actually a raspberry pi won't do what I need for such and such reason' and suddently I'm shopping for ThinkCentres. In order to keep me on track, I came up with some constraints
 
