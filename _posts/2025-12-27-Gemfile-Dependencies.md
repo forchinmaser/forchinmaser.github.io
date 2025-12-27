@@ -38,7 +38,7 @@ I can't do this right now, I'm just chasing my tail. Will knock out tomorrow mor
 Ok it's tomorrow. I just remembered that last time I had to configure and commit a jeykll.yml to the repo. Double checking with Claude: "nope not necessary"...
 
 Double checking with Jekyll and Chirpy docs "CONFIGURE JEKYLL.YML"...
-![created jekyll.yml](/_posts/images/2025-12-27-create-jekyllyml.png)
+<img src="/_posts/images/2025-12-27-create-jekyllyml.png" alt="Create jekyll.yml" width=50% height=50%>
 Yep, that solved the problem. Chirpy is live and looks great. There is still some issue with a local change I made to pages-deploy.yml, but apparently I don't have permission to push that change remotely. Looking through git docs now, but otherwise this was a successs. On to configuring Mikrotik!
 
 # WIL
