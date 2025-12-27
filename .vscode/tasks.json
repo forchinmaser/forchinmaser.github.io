@@ -15,7 +15,6 @@
     {
       "label": "Build Jekyll Site",
       "type": "shell",
-      "command": "./tools/test.sh",
       "group": {
         "kind": "build"
       },
