@@ -2,7 +2,7 @@
 
 title: "Laying Groundwork"
 date: 2025-12-25 23:51 -0500
-categories: [homelab getting started]
+categories: [homelab, getting-started]
 ---
 	
 For some financial and spiritual reasons, I find myself in a spot to start documenting my process of learning how to build servers and self-host a lot of things I've always been curious about. Some of my lnoger term goals include hoosting a Matrix server for a youtube series I help with. Some mid term goals include self hosting notes tools like obsidian and calendars. For now I have some pretty straightforward goals that I'm looking forward to picking away at
@@ -12,7 +12,7 @@ For some financial and spiritual reasons, I find myself in a spot to start docum
  - Learn how to maintain a dev blog with git
  - Configure my Mikrotik router with ProtonVPN  
  	 - port forwarding for torrent seeding  
-	 - VPN tunneling into my LAN
+	- VPN tunneling into my LAN
  - Set up a Raspberry Pi as a seedbox and learn how to use the web GUI  
  - Run a [copyparty](https://github.com/9001/copyparty/) server on said Raspberry Pi  
  
