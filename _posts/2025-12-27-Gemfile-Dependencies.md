@@ -8,8 +8,8 @@ categories: [github-pages]
 
 Last night Claude walked me through the setup of a git page. Everything seemed fine, the actions workflows all showed green checks, but the website gave a 404 error. Looking through the Annotations and run details, I noticed two warnings about and some yellow text:
 
-<img src="/_posts/images/20251226Annotation-Warnings.png" alt="Annotations Failed to save" width=50% height=50%>
-<img src="/_posts/images/20251226-Jekyll-yellow.png" alt="Deprecation You appear to have pagination turned on, but you haven't included the jekyll-paginate gem" width=50% height=50%> 
+![Annotations Failed to save](/_posts/images/20251226Annotation-Warnings.png){: width="700" height="400" }
+<img src="/_posts/images/20251226-Jekyll-yellow.png" alt="Deprecation You appear to have pagination turned on, but you haven't included the jekyll-paginate gem"{: width="700" height="400" }
 
 I was pretty tired and just guessed by throwing plugins: [jekyll-paginate] into _config.yaml. This broke the Jekyll build even worse.
 
