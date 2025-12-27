@@ -1,7 +1,7 @@
 ---
 title: "Gemfile Dependencies"
-date: 2025-12-26 23:59:00 -0500
-categories: [homelab]
+date: 2025-12-27 10:01:00 -0500
+categories: [github-pages]
 ---
 
 ## Fail Forward
@@ -28,9 +28,18 @@ This required renaming my local repo `...-backup` and deleting the github repo e
 
 I can't do this right now, I'm just chasing my tail. Will knock out tomorrow morning.
 
+....
+
+
+Ok it's tomorrow. I just remembered that last time I had to configure and commit a jeykll.yml to the repo. Double checking with Claude: "nope not necessary"...
+
+Double checking with Jekyll and Chirpy docs "CONFIGURE JEKYLL.YML"...
+![created jekyll.yml](2025-12-27-create-jekyllyml.png)
+Yep, that solved the problem. Chirpy is live and looks great. There is still some issue with a local change I made to pages-deploy.yml, but apparently I don't have permission to push that change remotely. Looking through git docs now, but otherwise this was a successs. On to configuring Mikrotik!
+
 # WIL
 
-- Read documentation first. If you don't get it, at least skim before asking for help from a human or LLM. This will circumscribe a general area to parse the advice you're given.
+- Read documentation first. If you don't get it, at least skim before asking for help from a human or LLM. This will outline a general area to parse the advice you're given.
 - Termimal short cuts
 	|Delete text **before** cursor|`ctrl-u`|
 	|-----------------------------|--------|
@@ -39,8 +48,6 @@ I can't do this right now, I'm just chasing my tail. Will knock out tomorrow mor
 	|Click to place cursor|`ctrl-lmb`|  
 - Markdown should be required in public school in place of cursive.
 - AI is a best just a reference tool, not a troubleshooting tool.
-
-
 
 
 
