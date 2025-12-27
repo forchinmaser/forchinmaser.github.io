@@ -1,11 +1,10 @@
 ---
-
 title: "Laying Groundwork"
-date: 2025-12-25 23:51 -0500
+date: 2025-12-25 23:51:00 -0500
 categories: [homelab, getting-started]
 ---
-	
-For some financial and spiritual reasons, I find myself in a spot to start documenting my process of learning how to build servers and self-host a lot of things I've always been curious about. Some of my lnoger term goals include hoosting a Matrix server for a youtube series I help with. Some mid term goals include self hosting notes tools like obsidian and calendars. For now I have some pretty straightforward goals that I'm looking forward to picking away at
+
+For some financial and spiritual reasons, I find myself in a spot to start documenting my process of learning how to build servers and self-host a lot of things I've always been curious about. Some of my long term goals include hosting a Matrix server for a youtube series I help with. Some mid term goals include self hosting notes tools like obsidian and calendars. For now I have some pretty straightforward goals that I'm looking forward to picking away at
 
 ## First Goals
 
@@ -17,7 +16,7 @@ For some financial and spiritual reasons, I find myself in a spot to start docum
 - Set up a Raspberry Pi as a seedbox and learn how to use the web GUI
 - Run a [copyparty](https://github.com/9001/copyparty/) server on said Raspberry Pi 
  
-The real challenge will be trying stay focused on these goals as one problem leads to the next. "How to setup VPN tunneling" turns into "How doees a bridge work" which turns into learning about the inner guts of packets etc etc. In the process I find out that 'actually a raspberry pi won't do what I need for such and such reason' and suddently I'm shopping for ThinkCentres. In order to keep me on track, I came up with some constraints
+The real challenge will be trying stay focused on these goals as one problem leads to the next. "How to setup VPN tunneling" turns into "How does a bridge work" which turns into learning about the inner guts of packets etc etc. In the process I find out that 'actually a raspberry pi won't do what I need for such and such reason' and suddenly I'm shopping for ThinkCentres. In order to keep me on track, I came up with some constraints
 
 ## Rules
 
@@ -31,4 +30,4 @@ The real challenge will be trying stay focused on these goals as one problem lea
 Even with these constraints there's a lot of freedom to mess around. If today I want to setup DHCP reservations for all my devices and tomorrow I want to make a goofy custom mouse cursor for my blog that's 100% ok, as long as I'm documenting the process. I already know I'll be relying on Ben for a lot of help, and he has strongly encouraged me to take advantage of Claude. They guided me through the set up of this git. I've never actually learned how github works, but I know it's crucial for getting this whole project running so this is the first step. Lot of YAML formatting I'll probably have to learn over time, and some front end design.
 
 
-The first step of setting up RouterOS will be a tought beginning, but as long as I can resist the urge to understand every aspect of the OS at once, I should be ok. This was a good start, here's to my first commit!
+The first step of setting up RouterOS will be a tough beginning, but as long as I can resist the urge to understand every aspect of the OS at once, I should be ok. This was a good start, here's to my first commit!
